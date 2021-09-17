@@ -1,7 +1,12 @@
 ---
 title: My Thesis
-author: You
-output: html_document
+author: Addien Wray
+abstract: >
+  Testing
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ## The Title and YAML Header
@@ -19,6 +24,15 @@ Rscript -e "rmarkdown::render('filename.Rmd')"
 ```
 
 No need to try it here, but just wanted to mention it :)
+
+## My Analysis
+ sdf
+ 
+```{r loadData}
+table = read.csv('data/input/GitHubRepos.csv')
+```
+
+The table has `r nrow(table)`.
 
 ## Document Templates
 
