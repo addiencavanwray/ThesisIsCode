@@ -1,4 +1,4 @@
-Repository URL,Linked Databases,"description
+     ,Linked Databases,"description
 (yes/no)","keywords
 (yes/no)","readme
 (yes/no)","codeofconduct
@@ -33,7 +33,7 @@ https://github.com/cga-wm/cga-wm.github.io,"[The National Map,Humanitarian Data 
 https://github.com/chinapedia/wikipedia.abstract.en,"[British Geological Survey,ITIS,The World Atlas of Language Structures,EMEP]",,,,,,,
 https://github.com/chinapedia/wikipedia.ja,"[The National Map,British Geological Survey,Geoscience Australia,ITIS,The World Atlas of Language Structures,EM-DAT]",,,,,,,
 https://github.com/chinapedia/wikipedia.ko,"[National Earthquake Information Center,The National Map,USGS Earthquake Hazards Program,PDS,IAU Minor Planet Center]",,,,,,,
-https://github.com/chinapedia/wikipedia.zh,"[The National Map,THEMIS,USGS Earthquake Hazards Program,Atmospheric Chemistry Experiment,British Geological Survey,Geoscience Australia,EDINA,Encyclopedia of Astronomy and Astrophysics,World Data Center for Geomagnetism, Kyoto,Intermagnet,ITIS,The World Atlas of Language Structures]",,,,,,,
+https://github.com/chinapedia/wikipedia.zh,"[The National Map,THEMIS,USGS Earthquake Hazards Program,Atmospheric Chemistry Experiment,British Geological Survey,Geoscience Australia,EDINA,Encyclopedia of Astronomy and Astrophysics,World Data Center for Geomagnetism, Kyoto,Intermagnet,ITIS,The World Atlas of Language Structures]",yes,no,yes,no,no,,In Chinese
 https://github.com/chinapedia/wikipedia.zh,"[Lamont-Doherty Core Repository,MediaBank,VentDB,MISTRALS database,National Geoscience Data Centre,GIS Data Depot,GO-GEO]",no,no,no,no,no,Custom HTML pivot viewer. ,"This repository contains little info, but the general HTML pivot viewer is more informative. https://github.com/CINERGI/html5pivotviewer"
 https://github.com/CINERGI/scraper,"[RRUFF Project,World Data Centre for Geomagnetism, Copenhagen,Unidata's RAMADDA,Atlantic Canada Conservation Data Centre,World Data Center for Solid Earth Physics,diversitydata.org,Indian Space Science Data Center,Encyclopedia of Astronomy and Astrophysics,Alvin Frame-Grabber System,Seafloor Sediments Data Collection,China Earthquake Data Center,Datatang,Data Sharing Infrastructure of Earth System Science,Environmental data explorer,GeoGratis,NEPTUNE Canada,GO-GEO]",,,,,,,
 https://github.com/CINERGI/TextTeaserOnline,"[RRUFF Project,World Data Centre for Geomagnetism, Copenhagen,Unidata's RAMADDA,Atlantic Canada Conservation Data Centre,World Data Center for Solar-Terrestrial Physics, Moscow,World Data Center for Solid Earth Physics,diversitydata.org,Indian Space Science Data Center,Encyclopedia of Astronomy and Astrophysics,Alvin Frame-Grabber System,Seafloor Sediments Data Collection,China Earthquake Data Center,Datatang,Data Sharing Infrastructure of Earth System Science,Environmental data explorer,GeoGratis,NEPTUNE Canada,GO-GEO]",,,,,,,
@@ -44,8 +44,8 @@ https://github.com/CoastalResilienceNetwork/mar-region,[CoRIS],,,,,,,
 https://github.com/CoastalResilienceNetwork/oecs-region,"[NC OneMap,CoRIS]",,,,,,,
 https://github.com/CoastalResilienceNetwork/usvi-region,[CoRIS],,,,,,,
 https://github.com/CoshChen/Observatory,[NCEI],yes,no,yes,no,no,course content,"capstone project for functional programming in scala Coursera series, this particular one to visualize temparature datasets"
-https://github.com/cowbell/cordova-plugin-geofence-wp8.1,[GEON],,,,,,,
-https://github.com/cran/emld,"[NCEI,Biological and Chemical Oceanography Data Management Office]",,,,,,,
+https://github.com/cowbell/cordova-plugin-geofence-wp8.1,[GEON],yes,no,no,no,no,software?,Seems to be some kind of mobile app?
+https://github.com/cran/emld,"[NCEI,Biological and Chemical Oceanography Data Management Office]",yes,no,yes,no,yes,R package (software),An R package for working with EML data
 https://github.com/cran/MoLE,[The World Atlas of Language Structures],yes,no,yes,no,no,simulating language evolution,
 https://github.com/crotwell/ember-seisplotjs,"[Southern California Earthquake Data Center,Northern California Earthquake Data Center]",yes,no,yes,yes,yes,code plugin,This is a plugin for viewing seismic data from IRIS in javascript
 https://github.com/CSIRO-enviro-informatics/ckanext-dcat-rev,[British Geological Survey],no,no,yes,no,yes,plugins ,"Great description in README file. A very organized and detailed description showing people how to use the plugins. An additional field like Contact is a great idea because users can reach out to the developers directly, if users have specific comments or questions when use the plugins . "
@@ -54,11 +54,11 @@ https://github.com/danielsuo/skgaip,[HydroShare],yes,no,yes,no,MIT,"hydro, detai
 https://github.com/darenasc/data-science-for-good,[Humanitarian Data Exchange],,,,,,,
 https://github.com/datopian/ckanext-tayside,[British Geological Survey],,,,,,,
 https://github.com/dddccc444/17-Leaflet-Homework,[USGS Earthquake Hazards Program],,,,,,,
-https://github.com/death667b/hidingWally,[Data.gov.au],,,,,,,
-https://github.com/deeppatel710/WikiDocumentClassification,"[USGS Earthquake Hazards Program,EarthScope,EM-DAT,EMEP]",,,,,,,
+https://github.com/death667b/hidingWally,[Data.gov.au],no,no,yes,no,no,,
+https://github.com/deeppatel710/WikiDocumentClassification,"[USGS Earthquake Hazards Program,EarthScope,EM-DAT,EMEP]",no,no,no,no,no,unclear,
 https://github.com/dkryadav/DATASET,[Humanitarian Data Exchange],,,,,,,
 https://github.com/donmurray/ramadda,"[Unidata's RAMADDA,EarthScope]",,,,,,,
-https://github.com/earthcubearchitecture-project418gui/server,"[LinkedEarth Wiki,Biological and Chemical Oceanography Data Management Office,IEDA,HydroShare]",,,,,,,
+https://github.com/earthcubearchitecture-project418gui/server,"[LinkedEarth Wiki,Biological and Chemical Oceanography Data Management Office,IEDA,HydroShare]",no,no,yes,no,no,,
 https://github.com/EDIorg/five_phases_DM,[ITIS],,,,,,,
 https://github.com/eljefe387/geoservergeoools,"[Geoscience Australia,GeoGratis]",,,,,,,
 https://github.com/eloffel/improved_embeddings,"[Amazon Web Services,Humanitarian Data Exchange,The World Atlas of Language Structures]",,,,,,,
@@ -69,20 +69,20 @@ https://github.com/ericjwei/Lightly-Sauteed-Vegetables,[USGS Earthquake Hazards 
 https://github.com/ES-DOC/pyessv-archive,[National Center for Atmospheric Research],,,,,,,
 https://github.com/excenter/epa.gov,"[Alaska Climate Research Center,GeoPlatform]",,,,,,,
 https://github.com/ExploringLies/liar-datasets,"[Remote Sensing Systems,diversitydata.org]",,,,,,,
-https://github.com/fengtuo58/QtLearning,[The National Map],,,,,,,
+https://github.com/fengtuo58/QtLearning,[The National Map],yes,no,no,no,no,,
 https://github.com/Ferdudas97/ict-nearby-earthquakes,[USGS Earthquake Hazards Program],no,no,yes,no,no,,
-https://github.com/fils/CDFRegistryWG,"[EarthChem,IEDA,EarthChem Library,Incorporated Research Institutions for Seismology]",,,,,,,
+https://github.com/fils/CDFRegistryWG,"[EarthChem,IEDA,EarthChem Library,Incorporated Research Institutions for Seismology]",yes,no,yes,no,no,EarthCube CDF Registry Working Group on self hosted facility metadata via HTML5 microdata,
 https://github.com/fraeli78/GIS4Labrador,"[Humanitarian Data Exchange,GeoCommons Archive]",,,,,,,
 https://github.com/fullerdav/fullerdav.github.io,"[USGS Earthquake Hazards Program,Humanitarian Data Exchange,GeoPlatform,EM-DAT]",no,no,no,no,no,hard to tell,
 https://github.com/gaoyajian/scriptsforasdf,[GEOFON],,,,,,,
 https://github.com/ghukill/coretrust_scraper,"[Cold and Arid Regions Science Data Center at Lanzhou,GHRC,Ocean Networks Canada,WDC for geophysics, Beijing,PANGAEA,National Geoscience Data Centre]",,,,,,,
-https://github.com/Gipsa-lab-PFP/BOARR,[The National Map],,,,,,,
+https://github.com/Gipsa-lab-PFP/BOARR,[The National Map],yes,no,yes,no,no,,includes citations
 https://github.com/gitpeterwind/rv4_32_beta,[EMEP],,,,,,,
 https://github.com/go-fair-ins/GO-FAIR-BiodiFAIRse,"[Fishnet2,biodiversity.aq]",,,,,,,
 https://github.com/godnew/godnew.github.io,[Datatang],,,,,,,
 https://github.com/govau/australia-gov-au-static,[Geoscience Australia],,,,,,,
 https://github.com/govhack-science/govhack-science.github.io,"[Geoscience Australia,National Vegetation Survey Databank]",yes,no,yes,no,yes,source for a website for a government-sponsored hackathon-type thing using public data,
-https://github.com/griesyuli/semanticMSE,"[REasons for Geographic and Racial Differences in Stroke Study,USGS Earthquake Hazards Program,History Data Service,GIS Data Depot]",,,,,,,
+https://github.com/griesyuli/semanticMSE,"[REasons for Geographic and Racial Differences in Stroke Study,USGS Earthquake Hazards Program,History Data Service,GIS Data Depot]",yes,yes,yes,no,no,program for improving query expansion in search engines,
 https://github.com/henryqin1997/table-embeddings,"[Geoscience Australia,NEEShub]",,,,,,,
 https://github.com/highsource/ogc-schemas,"[Data.gov.au,British Geological Survey,Geoscience Australia]",,,,,,,
 https://github.com/homelessgod/https,"[EDINA,NGEE Arctic]",,,,,,,
@@ -98,9 +98,9 @@ https://github.com/jay1204/SOD-modeling-cpp,[Comprehensive Large Array-data Stew
 https://github.com/jburnford/Geospatial-Historian,[EDINA],,,,,,,
 https://github.com/jobvw/regression,[GOVDATA],,,,,,,
 https://github.com/jonititan/python-raster-vector-geospatial,[National Ecological Observatory Network],,,,,,,
-https://github.com/jscarto/js_net,[LAADS DAAC],,,,,,,
+https://github.com/jscarto/js_net,[LAADS DAAC],,,,,,,404 error message
 https://github.com/JUNHUA93/itm361-summer2017-lab4,[PDS],,,,,,,
-https://github.com/KnowledgeCaptureAndDiscovery/wikibot,[LinkedEarth Wiki],,,,,,,
+https://github.com/KnowledgeCaptureAndDiscovery/wikibot,[LinkedEarth Wiki],no,no,yes,no,no,provide dataset metadata,
 https://github.com/kucingit3m/Plagiarsm-Detection,[British Geological Survey],no,no,no,no,yes,Detecting plagiarism,Doesn't seem functional?
 https://github.com/lagvier/Abraham-Kipkosgei-Lagat,"[Humanitarian Data Exchange,EM-DAT]",,,,,,,
 https://github.com/lata3774/CompBioLabsAndHomework,[ITIS],,,,,,,
@@ -111,11 +111,11 @@ https://github.com/locationtech/rasterframes,[Landsat Missions],,,,,,,
 https://github.com/lohitjain/WebClassification,"[GEOMIND,EMEP,GIS Data Depot]",,,,,,,
 https://github.com/lshok/DFT-collections,[RRUFF Project],,,,,,,
 https://github.com/lteran/latam-map2,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
-https://github.com/lucas0/Annotator,"[NCEI,USGS Earthquake Hazards Program,U.S. Geological Survey,CoRIS,Climate Data Online]",,,,,,,
+https://github.com/lucas0/Annotator,"[NCEI,USGS Earthquake Hazards Program,U.S. Geological Survey,CoRIS,Climate Data Online]",yes,no,yes,no,no,yes,"""About"" Annotator used to determine the source of fact-checked claims by snopes "
 https://github.com/lucas0/OriginID,"[NCEI,USGS Earthquake Hazards Program,U.S. Geological Survey,CoRIS,Climate Data Online]",,,,,,,
 https://github.com/manthaappu/searchengine,"[British Geological Survey,NEEShub]",,,,,,,
 https://github.com/marialma/Public-Data-Sets,"[Humanitarian Data Exchange,GeoPlatform]",yes,no,yes,no,no,List of links to and descriptions of public databases,
-https://github.com/maximz/Photon,"[USGS Earthquake Hazards Program,Claremont Colleges Digital Library]",,,,,,,
+https://github.com/maximz/Photon,"[USGS Earthquake Hazards Program,Claremont Colleges Digital Library]",no,no,"yes (very short, not descriptive)",no,no,"web & android app, not sure what purpose",
 https://github.com/metazool/bgs_sgy,"[British Geological Survey,National Geoscience Data Centre]",,,,,,,
 https://github.com/mglbranco/researcheRs2,"[ITIS,PANGAEA]",no,no,yes,no,no,Workshop for reproducible science in R,written in Spanish language
 https://github.com/Mgt-A/Wikipedia-Classification,"[USGS Earthquake Hazards Program,EarthScope,EM-DAT,EMEP]",yes,no,yes (empty),no,no,Binary classification of Wikipedia articles,
@@ -126,7 +126,7 @@ https://github.com/moeycb/samples,"[The National Map,USGS Earthquake Hazards Pro
 https://github.com/morganherlocker/portalizer,"[CoRIS,Northwest Knowledge Network]",,,,,,,
 https://github.com/MTES-MCT/aides-territoires,[data.eaufrance.fr],yes,no,yes,no,no,Source for French govt website listing resources and funding for regional sustainable development,
 https://github.com/murrayk/pythonscripts,"[British Geological Survey,EDINA]",,,,,,,
-https://github.com/nasa-gibs/worldview,"[OceanColor web,Visible earth,TERRA,Precipitation Processing System]",,,,,,,
+https://github.com/nasa-gibs/worldview,"[OceanColor web,Visible earth,TERRA,Precipitation Processing System]",yes,yes,yes,no,yes,"nteractive interface for browsing global, full-resolution satellite imagery ",
 https://github.com/nasa-gibs/worldview-options-eosdis,"[OceanColor web,Visible earth,TERRA,Precipitation Processing System]",,,,,,,
 https://github.com/NCAR/dset-web-accessible-folder-dev,"[Remote Sensing Systems,DASH Repository,CESM Experiments,Climate Data Gateway at NCAR]",,,,,,,
 https://github.com/nds-org/nds-website,"[EarthChem,TERRA]",yes,no,yes,no,no,contains content for www.nationaldataservice.org,
@@ -143,7 +143,7 @@ https://github.com/panosc-eu/panosc,[Code Ocean],,,,,,,
 https://github.com/petermr/tigr2ess,"[Tropical Rainfall Measuring Mission,Humanitarian Data Exchange,ITIS]",,,,,,,
 https://github.com/planetfederal/geotools-tike,"[Geoscience Australia,GeoGratis]",,,,,,,
 https://github.com/prasanna310/hydrods,[HydroShare],no,no,yes,,MIT,no idea,written for python
-https://github.com/ptgolden/lov-ns,[Data.gov.au],,,,,,,
+https://github.com/ptgolden/lov-ns,[Data.gov.au],yes,,yes,no,no,,
 https://github.com/puneetjohal/ShrimpCrackers,"[NCEI,Climate Data Online]",,,,,,,
 https://github.com/qpec/Altmetric_17K_Top_Articles,"[REasons for Geographic and Racial Differences in Stroke Study,Humanitarian Data Exchange,Ocean Networks Canada,EM-DAT,EMEP,Moderate Resolution Imaging Spectroradiometer]",,,,,,,
 https://github.com/RashmiNalwad/Scientific-Content-Enrichment-in-the-Text-Retrieval-Conference-TREC-Polar-Dynamic-Dataset-,"[Geoscience Australia,GEOROC]",,,,,,,
@@ -151,7 +151,7 @@ https://github.com/rastogi-s/Information-Retrieval,"[USGS Earthquake Hazards Pro
 https://github.com/rdsleeman/documentation,"[GEOFON,EIDA]",,,,,,,
 https://github.com/redpony/cmu-mt-11731,[The World Atlas of Language Structures],Yes,no,yes,no,no,Not sure,Description and readme are uninformative;
 https://github.com/regro/libcfgraph,"[NCEI,ITIS]",,,,,,,
-https://github.com/reidbaker/QuakesInOurMain,"[USGS Earthquake Hazards Program,British Geological Survey,Geoscience Australia]",,,,,,,
+https://github.com/reidbaker/QuakesInOurMain,"[USGS Earthquake Hazards Program,British Geological Survey,Geoscience Australia]",no,no,"yes, but, 4 words",no,no,,There's a catalog but no description.  Last commits seem to be about 9 years ago
 https://github.com/rmace001/Final-Project-Search-Engine,"[NCEI,National Center for Atmospheric Research,HydroShare,Polar Rock Repository,PDS]",no,no,yes,no,no,Obtaining online data,
 https://github.com/roicenir/serviceworker2,"[EDINA,NGEE Arctic]",yes,no,yes,no,no,Not sure,page is in Portuguese; Description is uninformative
 https://github.com/RonenNess/GeonBit,[GEON],,,,,,,
@@ -160,29 +160,29 @@ https://github.com/rtakeshi/cap359-datamining,[Intermagnet],,,,,,,
 https://github.com/rutu0309/R-Programming-Coursera,"[Data.gov.au,GOVDATA]",,,,,,,
 https://github.com/ryhan/NLP-project,[The World Atlas of Language Structures],,,,,,,
 https://github.com/sandan/CS378DataScienceFall2014,"[EM-DAT,Northern California Earthquake Data Center]",,,,,,,
-https://github.com/scgordon/sampleMetadataCollections,"[EarthChem,EarthChem Library,NGEE Arctic]",,,,,,,
+https://github.com/scgordon/sampleMetadataCollections,"[EarthChem,EarthChem Library,NGEE Arctic]",no,no,no,no,no,,"""About"" XML metadata for analysis testing "
 https://github.com/SciColl/GRSciColl,"[Consortium of Pacific Herbaria,Fishnet2,Polar Rock Repository]",,,,,,,
-https://github.com/scriptrdotio/noaa,[Climate Data Online],,,,,,,
+https://github.com/scriptrdotio/noaa,[Climate Data Online],no,no,yes,no,none,simplify and streamline the way you access NOAA' APIs from scriptr.io,
 https://github.com/seisman/link.seisman.info,"[EarthByte,Northern California Earthquake Data Center,Incorporated Research Institutions for Seismology]",Yes,Yes,Yes,No,Unlicense License,Links for Geophysics and Seismology research.,
 https://github.com/seongjinpark-88/geo_identification,"[The Paleobiology Database,CARIBIC,U.S. Antarctic Program Data Center,PANGAEA,National Geoscience Data Centre,GSA Data Repository]",No,No,Yes,No,None,,unknown geo_project
 https://github.com/shaefner-usgs/fieldnotes-admin,[USGS Earthquake Hazards Program],no,no,yes,no,None (public domain),,readme very short
 https://github.com/shenshanlaoyuan/PythonTraining,[Datatang],No,No,Yes,No,None,,Python training in chinese.
 https://github.com/slab-itu/HTSS,"[Remote Sensing Systems,The Paleobiology Database,Ag Data Commons,Tropical Rainfall Measuring Mission,Humanitarian Data Exchange,PANGAEA]",,,,,,,
 https://github.com/sld666666/blog,[Datatang],,,,,,,
-https://github.com/sniperkit/snk.dev-assistant,"[The National Map,GIS Data Depot]",,,,,,,
+https://github.com/sniperkit/snk.dev-assistant,"[The National Map,GIS Data Depot]",yes,yes,yes,yes,no,,
 https://github.com/soleera/r-overlay,"[The Paleobiology Database,ITIS]",,,,,,,
 https://github.com/StanfordGeospatialCenter/Hackathon_DataSources,"[Humanitarian Data Exchange,Northern California Earthquake Data Center]",yes,no,yes,no,none,links to geospatial data references for a 2017 hackathon,
 https://github.com/stevage/nm-static,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
-https://github.com/stevenvelozo/quantifier,[Climate Data Online],,,,,,,
+https://github.com/stevenvelozo/quantifier,[Climate Data Online],no,no,no,no,MIT,works with NOAA climate data,There is more data and README.md files in the examples folder
 https://github.com/sun-jiao/Osmunda,[OpenStreetMap],,,,,,,
 https://github.com/superturbooffenaffen/opensaml3,[EDINA],,,,,,,
-https://github.com/svitkin/personal-blog,[NASA Image and Video Library],,,,,,,
+https://github.com/svitkin/personal-blog,[NASA Image and Video Library],yes,no,no,no,no,,
 https://github.com/tdwg/website,"[The Paleobiology Database,Open Context]",,,,,,,
 https://github.com/TerriaJS/abc-news-stories,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
 https://github.com/TerriaJS/GreaterSydneyExplorer,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
 https://github.com/TerriaJS/InvestorMap,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
-https://github.com/TerriaJS/nationalmap,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
-https://github.com/TerriaJS/TerriaMap,"[The National Map,Data.gov.au,Geoscience Australia]",,,,,,,
+https://github.com/TerriaJS/nationalmap,"[The National Map,Data.gov.au,Geoscience Australia]",no,no,yes,no,Apache 2.0,easy access to spatial data,
+https://github.com/TerriaJS/TerriaMap,"[The National Map,Data.gov.au,Geoscience Australia]",yes,no,yes,no,Apache 2.0,catalog of geospatial info,
 https://github.com/thomai-sta/search_engines_and_information_retrieval,"[British Geological Survey,Geoscience Australia]",,,,,,,
 https://github.com/thunderspark-9/nlp_dataset,"[USGS Earthquake Hazards Program,Humanitarian Data Exchange,EM-DAT]",,,,,,,
 https://github.com/tlevine/ckan-datasets,"[WATCH,Data.gov.au,British Geological Survey,EDINA,GOVDATA]",,,,,,,
@@ -197,11 +197,11 @@ https://github.com/victoralexander132/Raman_Processing,[RRUFF Project],,,,,,,
 https://github.com/VipWangQiaoqiao/SeaDAS,"[OceanColor web,Moderate Resolution Imaging Spectroradiometer]",,,,,,,
 https://github.com/watsona4/dot_julia,"[NCEI,USGS Earthquake Hazards Program,British Geological Survey,Climate Data Online]",,,,,,,
 https://github.com/wfdd/public-open-data-portals,[European Union Open Data Portal],,,,,,,
-https://github.com/whu-pzhang/pzhangnotes.info.posts,"[Northern California Earthquake Data Center,Incorporated Research Institutions for Seismology]",,,,,,,
+https://github.com/whu-pzhang/pzhangnotes.info.posts,"[Northern California Earthquake Data Center,Incorporated Research Institutions for Seismology]",very short,no,very short,no,no,field notes? for a blog page,in Chinese
 https://github.com/wileybenet/d3,[EM-DAT],,,,,,,
 https://github.com/WSULib/rds,[EDINA],,,,,,,
 https://github.com/YeeitsAlex/IR-SearchEngine-Project,"[NCEI,National Center for Atmospheric Research,HydroShare,Polar Rock Repository,PDS]",,,,,,,
 https://github.com/ywang37/compare_SO2_NO2_model_satellite,[EMEP],,,,,,,
 https://github.com/zach3141/fire_prediction,[Moderate Resolution Imaging Spectroradiometer],,,,,,,
-https://github.com/zdvi/EnvironmentalData,[Humanitarian Data Exchange],,,,,,,
+https://github.com/zdvi/EnvironmentalData,[Humanitarian Data Exchange],no,,yes,no,no,looks like mainly a list of references,
 https://github.com/zfleckhawk/zfleckhawk.github.io,[PDS],,,,,,,

@@ -2,9 +2,10 @@
 title: "My Sample Thesis"
 author: "Simon Goring"
 output:
-  html_document: null
+  pdf_document: default
   word_document:
     reference_docx: templates/thesistemplate.docx
+  html_document: null
 bibliography: bibliography/bibliography.bib
 abstract: This is a sample thesis that we're using to showcase some practical applications
   of integrated documents.
